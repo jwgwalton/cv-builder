@@ -1,11 +1,14 @@
 import markdown2
 import pdfkit
 
+MARKDOWN_FILE = 'CV_consultant.md'
+OUTPUT_FILE = 'CV_2025_2.pdf'
+
 # Specify the path to wkhtmltopdf
 config = pdfkit.configuration(wkhtmltopdf=r'C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe')
 
 # Step 2: Read the Markdown file
-with open('CV.md', 'r', encoding='utf-8') as md_file:
+with open(MARKDOWN_FILE, 'r', encoding='utf-8') as md_file:
     md_content = md_file.read()
 
 # Step 3: Convert Markdown to HTML with custom CSS
@@ -28,4 +31,4 @@ css = """
 html_content = f"{css}\n{html_content}"
 
 # Step 4: Convert HTML to PDF
-pdfkit.from_string(html_content, 'CV.pdf', configuration=config)
+pdfkit.from_string(html_content, OUTPUT_FILE, configuration=config)
