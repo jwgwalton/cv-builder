@@ -1,0 +1,10 @@
+[project]
+name = "cv-builder"
+version = "0.1.0"
+description = "Convert a markdown CV to PDF"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "markdown>=3.7",
+    "weasyprint>=65.0",
+]
