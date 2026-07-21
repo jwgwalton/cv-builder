@@ -8,8 +8,8 @@
 ---
 
 ## Professional Summary
-Experienced machine learning engineer with over 8 years of expertise in machine learning, ML engineering, AI engineering & software engineering.
-Demonstrable success in building and deploying advanced AI models and production-grade ML engineering systems with significant business value.
+Experienced machine learning engineer with over 8 years of expertise in machine learning, AI engineering & software engineering.
+Demonstrable success in building and deploying advanced AI models and production-grade ML systems with significant business value.
 Passionate about developing secure, responsible AI systems.
 Possesses excellent stakeholder management skills & ability to guide organisations through AI transformation.
 
