@@ -8,8 +8,8 @@
 ---
 
 ## Professional Summary
-Experienced machine learning engineer with over 8 years of expertise in machine learning & software engineering.
-Demonstrable success in building and deploying advanced AI models with significant business value.
+Experienced machine learning engineer with over 8 years of expertise in machine learning, ML engineering, AI engineering & software engineering.
+Demonstrable success in building and deploying advanced AI models and production-grade ML engineering systems with significant business value.
 Passionate about developing secure, responsible AI systems.
 Possesses excellent stakeholder management skills & ability to guide organisations through AI transformation.
 
@@ -31,10 +31,12 @@ Possesses excellent stakeholder management skills & ability to guide organisatio
 ### IBM
 **Lead Data Scientist**  
 *Contract role*  
-Worked on a contract for central government.
+Contract role with central government.
 
-- Rebuilt an ETL pipeline, removing a Spark dependency and reducing runtime costs by 95%.
-- Built LLM-based data processing agents.
+- Rescuing failing AI projects through implementing best practices. (Evaluations, Observability)
+- Designed and delivered an LLM powered data processing assistant saving 2 hours per case worker per day for a saving of ~£2M a year.
+- Wrote a Claude Skill to optimise Human-in-the-Loop data ingestion for writing Evals for LLM products, time saved has been ~1 hour per case in the Eval suite.
+- Rewrote a data matching algorithm in Polars from Apache Spark. This reduced cloud costs by ~£10k per month, reducing run time from 2 hours to 10 minutes.
 
 ---
 
