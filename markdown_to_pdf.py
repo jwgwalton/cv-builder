@@ -1,8 +1,8 @@
 import markdown
 from weasyprint import HTML
 
-MARKDOWN_FILE = 'CV_2026_07_21.md'
-OUTPUT_FILE = 'CV_2026_07_21.pdf'
+MARKDOWN_FILE = 'CV_2026_07_22.md'
+OUTPUT_FILE = 'CV_2026_07_22.pdf'
 
 # Read the Markdown file
 with open(MARKDOWN_FILE, 'r', encoding='utf-8') as md_file:
