@@ -18,7 +18,7 @@ Possesses excellent stakeholder management skills & ability to guide organisatio
 ## Technical Skills
 
 - **Programming Languages:** Python, SQL, Java 
-- **LLM ecosystem:** AzureOpenAI, Huggingface, Langchain, Langgraph
+- **Agent ecosystem:** AzureOpenAI, Huggingface, Langchain, Langgraph
 - **Machine Learning Frameworks:** TensorFlow, Pytorch, Scikit-learn
 - **Data Analysis:** Apache Spark, Pandas, Polars, NumPy, Matplotlib, Seaborn
 - **Tools:** Git, Docker, Jupyter, MLFlow
@@ -34,8 +34,8 @@ Possesses excellent stakeholder management skills & ability to guide organisatio
 Contract role with central government.
 
 - Rescuing failing AI projects through implementing best practices. (Evaluations, Observability)
-- Designed and delivered an LLM powered data processing assistant saving 2 hours per case worker per day for a saving of ~£2M a year, Using Azure AI Foundry, Azure Functions and LangGraph.
-- Wrote a Claude Skill to optimise Human-in-the-Loop data ingestion for writing Evals for LLM products, time saved has been ~1 hour per case in the Eval suite.
+- Designed and delivered a data processing agent saving 2 hours per case worker per day for a saving of ~£2M a year, using Azure AI Foundry, Azure Functions and LangGraph.
+- Wrote a Claude Skill to optimise Human-in-the-Loop data ingestion for writing Evals for agent products, time saved has been ~1 hour per case in the Eval suite.
 - Rewrote a data matching algorithm in Polars from Apache Spark. This reduced cloud costs by ~£10k per month, reducing run time from 2 hours to 10 minutes.
 
 ---
