@@ -18,11 +18,10 @@ Independent technical leader who works effectively with business and engineering
 ## Technical Skills
 
 - **Programming & Data:** Python, SQL, Java, Pandas, Polars, NumPy, Apache Spark
-- **NLP & Generative AI:** Hugging Face, BERT, FastText, Azure OpenAI, LangChain, LangGraph, RAG, vector search
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, statistical modelling, experimentation, model evaluation
-- **MLOps & Engineering:** MLflow, Azure ML Pipelines, Vertex AI Pipelines, Docker, Git, CI/CD, model deployment and monitoring
+- **NLP & Generative AI:** Hugging Face, BERT, FastText, Azure AI Foundry LangChain, LangGraph, RAG, vector search
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+- **MLOps & Engineering:** MLflow, Azure ML Pipelines, Vertex AI Pipelines, CI/CD
 - **Cloud Platforms:** Microsoft Azure, Google Cloud Platform, AWS
-- **Data Platforms:** Azure Functions, Azure AI Foundry, Elasticsearch, PostgreSQL, MySQL
 
 ---
 
@@ -34,8 +33,7 @@ Contract role delivering AI solutions for central government.
 
 - Rescued underperforming AI projects by challenging proposed approaches and introducing evidence-based evaluation and observability practices.
 - Designed and delivered an agent-based data processing solution using Azure AI Foundry, Azure Functions and LangGraph, saving case workers two hours per day and approximately £2M annually.
-- Developed a Claude Skill that streamlined human-in-the-loop data ingestion for evaluation datasets, saving approximately one hour per evaluation case.
-- Re-engineered a data matching algorithm from Apache Spark to Polars, reducing runtime from two hours to ten minutes and cloud costs by approximately £10k per month.
+- Re-engineered a data matching algorithm reducing runtime from two hours to ten minutes and cloud costs by approximately £10k per month.
 
 Tech Stack: Python, Polars, Azure AI Foundry, Azure Functions, LangGraph
 
@@ -47,7 +45,7 @@ Tech Stack: Python, Polars, Azure AI Foundry, Azure Functions, LangGraph
 Developed and operationalised NLP solutions to improve trade mark application outcomes in a government environment.
 
 - Set the product roadmap for AI applications in the intellectual property domain, evaluating opportunities, risks and practical delivery constraints.
-- Communicated the UK's approach to AI implementation to technical and non-technical stakeholders across multiple international IP offices.
+- Communicated the IPO's approach to AI implementation to technical and non-technical stakeholders across multiple international IP offices.
 - Contributed to cross-government AI policy and best practices through the government AI working group.
 - Developed generative AI applications within a service-oriented architecture using LangChain, Azure OpenAI and Azure Functions.
 - Built a RAG agent that used unstructured text to help novice users identify relevant Goods and Services terms.
@@ -55,7 +53,7 @@ Developed and operationalised NLP solutions to improve trade mark application ou
 - Implemented and tuned Elasticsearch HNSW vector search, balancing throughput and recall through systematic evaluation.
 - Used relevance metrics and experimental evidence to refine search and recommendation systems, improving relevance by 20%.
 - Implemented an end-to-end MLOps strategy covering deployment across multiple environments, reducing model deployment time to under one day.
-- Architected ETL pipelines in Polars to transform complex datasets, replacing Azure Databricks workloads, reducing compute costs by 50% and enabling zero-downtime deployments.
+- Architected and built ETL pipelines in Polars to transform complex datasets, replacing Azure Databricks workloads, reducing compute costs by 50% and enabling zero-downtime deployments.
 
 Tech Stack: Python, Azure OpenAI, Hugging Face, Azure ML Pipelines, Azure Functions, Elasticsearch, Polars
 
@@ -78,7 +76,7 @@ Tech Stack: Python, Hugging Face, TensorFlow, PySpark, Vertex AI Pipelines, Goog
 *November 2018 - February 2020*  
 Researched, evaluated and deployed machine learning models for intellectual property protection.
 
-- Engineered a production NLP system for predicting IP infringement in a secure, containerised environment, increasing enforced infringements by 10% per analyst across a workforce of approximately 200 analysts.
+- Designed and built a production NLP system for predicting IP infringement in a secure, containerised environment, increasing enforced infringements by 10% per analyst across a workforce of approximately 200 analysts.
 - Built and deployed an image similarity model that helped secure a major blue-chip client contract representing 10% of annual recurring revenue.
 
 Tech Stack: Python, TensorFlow, FastText, Google Cloud Platform, MLflow, Docker
@@ -102,7 +100,7 @@ Tech Stack: Python, PySpark, Cloudera
 *September 2018 - October 2018*  
 Seconded to Barclays to develop regional economic indicators from payments data.
 
-- Applied statistical and analytical methods to financial data, communicating the implications of its secure and ethical use in regional economic models.
+- Applied statistical and analytical methods to financial data for novel statistical measures of economic activity.
 
 This continued work from the winning ONS x Barclays Hackathon team.
 
@@ -111,7 +109,7 @@ This continued work from the winning ONS x Barclays Hackathon team.
 ### Purple Secure Systems
 **Software Engineer**  
 *August 2014 - October 2016*  
-Developed full-stack big data processing systems for government and defence clients.
+Developed big data processing systems for government and defense clients.
 
 Tech Stack: Java, Python, PySpark, AngularJS
 
