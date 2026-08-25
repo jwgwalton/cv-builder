@@ -55,10 +55,8 @@ Developed and operationalised natural language and generative AI systems for tra
 - Implemented and tuned Elasticsearch HNSW vector search, balancing throughput and recall through systematic evaluation.
 - Used relevance metrics and experimental evidence to improve search and recommendation quality by 20%.
 - Designed evaluation approaches and conducted red-team testing to identify reliability and adversarial robustness issues in generative AI applications.
-- Set the product roadmap for AI applications, translating user needs and delivery constraints into prioritised technical initiatives.
 - Implemented an end-to-end MLOps strategy across multiple environments, reducing model deployment time to under one day.
 - Architected reusable ETL pipelines in Polars, replacing Azure Databricks workloads, reducing compute costs by 50% and enabling zero-downtime deployments.
-- Communicated AI implementation approaches to technical and non-technical stakeholders across international IP offices and contributed to a cross-government AI working group.
 
 **Tech Stack:** Python, LangChain, Azure OpenAI, Hugging Face, Azure Functions, Azure ML Pipelines, Elasticsearch, Polars
 
