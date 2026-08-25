@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: cv-builder
+Version: 0.1.0
+Summary: Convert a markdown CV to PDF
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: markdown>=3.7
+Requires-Dist: weasyprint>=65.0
+
+# CV generator
+
+Convert easily editable markdown into a PDF
+
+## Run cv-builder
+
+```bash
+# Install uv
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Run the project 
+uv run markdown_to_pdf.py
+```
