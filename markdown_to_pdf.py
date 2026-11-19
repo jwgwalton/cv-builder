@@ -12,7 +12,7 @@ with open(MARKDOWN_FILE, 'r', encoding='utf-8') as md_file:
 html_content = markdown.markdown(md_content)
 css = """
 <style>
-    body { font-family: 'Times New Roman', serif; margin: 30px; font-size: 14px; }
+    body { font-family: 'Times New Roman', serif; margin: 30px; font-size: 13px; }
     h1 { font-size: 1.8em; }
     h2 { font-size: 1.6em; }
     h3 { font-size: 1.4em; }
